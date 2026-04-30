@@ -148,14 +148,14 @@ main {
 .ebay {
   grid-area: ebay;
   background: #D3D3D3;
-  padding: 10px;
+  padding: 1rem;
   text-align: left;
 }
 
 .hobbies {
   grid-area: hobbies;
   background: #D3D3D3;
-  padding: 10px;
+  padding: 1rem 1rem 1rem 2rem;
   text-align: left;
 }
 
