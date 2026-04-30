@@ -66,6 +66,10 @@ main {
   padding: 20px;
 }
 
+h1 {
+  padding: 1rem;
+}
+
 .photos {
   grid-area: photos;
   background: #D3D3D3;
