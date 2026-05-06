@@ -15,7 +15,7 @@ body.dark {
   color: white;
   .container {background: black;
   }
-  header, main, .photos, .ebay, .hobbies, footer      {background: gray}
+  header, main, .photos, .ebay, .hobbies, .contact, footer      {background: gray}
 }
 
 /* Container Grid Layout */
