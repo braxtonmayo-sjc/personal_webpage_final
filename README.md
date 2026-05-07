@@ -1,4 +1,4 @@
-# personal_webpage_final
+# Braxton Mayo Portfolio Website
 The purpose of my website is mainly to show my photography work, share a little bit about myself, and give people a way to contact me.
 
 I chose a neutral gray color palette (with just a touch of color on the nav hover) to create a clean and modern appearance. The gray background helps to not distract from my photographs while still keeping the website visually balanced. I also added a toggle theme button to allow users to switch between light and dark mode to improve accessibility and customize their viewing experience.  I used the Raleway font because it has a modern and clean look. The font is easy to read while still feeling stylish and professional.
