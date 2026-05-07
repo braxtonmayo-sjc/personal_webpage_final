@@ -21,7 +21,7 @@ body.dark {
       background-color: black;
       color: white;
     }
-    header, main, .photos, .ebay, .hobbies, .contact, #email, footer {
+    header, main, .photos, .ebay, .hobbies, .contact, footer {
       background: gray
     }
 }
@@ -194,16 +194,6 @@ h1, h2 {
   text-align: left;
 }
 
-#email {
-  display: inline-block;
-  background-color: white;
-  border: 2px solid gray;
-  border-radius: 12px;
-  color: black;
-  padding: 10px 24px;
-  text-decoration: none;
-  margin-top: 20px;
-}
 /* Footer */
 footer {
   grid-area: footer;
