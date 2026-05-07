@@ -1,2 +1,6 @@
-# personal_webpage_alt
-personal portfolio website - final project with alternate slideshow option
+# personal_webpage_final
+The purpose of my website is mainly to show my photography work, share a little bit about myself, and give people a way to contact me.
+
+I chose a neutral gray color palette (with just a touch of color on the nav hover) to create a clean and modern appearance. The gray background helps to not distract from my photographs while still keeping the website visually balanced. I also added a toggle theme button to allow users to switch between light and dark mode to improve accessibility and customize their viewing experience.  I used the Raleway font because it has a modern and clean look. The font is easy to read while still feeling stylish and professional.
+
+A few challenges I faced were making the image carousel work correctly and making the website responsive on different screen sizes. On the image carousel, due to my images being both portrait and landscape, some images appeared too large or stretched. I solved this by using the `object-fit: contain;` CSS property so all images would scale properly while maintaining their aspect ratios.  For the responsive layout, the ebay section became cut off on mobile devices. I discovered I had an error in my media query layout with that section still in a double-column layout.  By changing it to a single-column but duoble row layout, everything fit correctly on smaller screens.
